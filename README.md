@@ -54,7 +54,7 @@ src/
 
 ### 1️. Clone the repo
 ```bash
-git clone https://github.com/<your-username>/money-manager-frontend.git
+git clone https://github.com/ManisharmaSenthilkumar/money-manager-frontend
 cd money-manager-frontend
 
 ### 2. Install dependencies
