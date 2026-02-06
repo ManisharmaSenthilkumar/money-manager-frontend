@@ -1,0 +1,16 @@
+Money Manager Submission Details
+
+Frontend GitHub Repo:
+https://github.com/ManisharmaSenthilkumar/money-manager-frontend
+
+Backend GitHub Repo:
+https://github.com/ManisharmaSenthilkumar/money-manager-backend
+
+Backend Deployment URL:
+https://money-manager-backend-n115.onrender.com
+
+Frontend Deployment URL:
+https://money-manager-frontend-puce.vercel.app/
+
+Last Commit Hash (Frontend):
+fcb5b4cd92c19c353b4ec796e248490f051b8b18
